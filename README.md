@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:///www.linkedin.com/in/josé-leonardo-172828192/)](https:///www.linkedin.com/in/josé-leonardo-172828192/)
-[![Instagran](https://img.shields.io/badge/instagram-9cf?logo=instagram&style=for-the-badge&link=https://bit.ly/pauloluan)](https://bit.ly/pauloluan)
+[![Instagran](https://img.shields.io/badge/instagram-purple?logo=instagram&style=for-the-badge&link=https://www.instagram.com/leo_dejankovty/)](https://www.instagram.com/leo_dejankovty)
 
-[![Instagran](https://img.shields.io/badge/instagram-9cf?logo=instagram&style=for-the-badge&link=https://www.instagram.com/leo_dejankovty/)](https://www.instagram.com/leo_dejankovty)
+
+[![Instagran](https://img.shields.io/badge/instagram-purple?logo=instagram&style=for-the-badge&link=https://api.whatsapp.com/send?phone=5511939275748/)](https://api.whatsapp.com/send?phone=5511939275748)
+
 
 
