@@ -23,7 +23,5 @@ Here are some ideas to get you started:
 [![Instagran](https://img.shields.io/badge/instagram-purple?logo=instagram&style=for-the-badge&link=https://www.instagram.com/leo_dejankovty/)](https://www.instagram.com/leo_dejankovty)
 
 
-[![Instagran](https://img.shields.io/badge/instagram-purple?logo=instagram&style=for-the-badge&link=https://api.whatsapp.com/send?phone=5511939275748/)](https://api.whatsapp.com/send?phone=5511939275748)
-
-
+[![Instagran](https://img.shields.io/badge/instagram-purple?logo=instagram&style=for-the-badge&link=https://api.whatsapp.com/send?phone=5511954299266/)](https://api.whatsapp.com/send?phone=5511954299266)
 
