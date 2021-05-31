@@ -34,5 +34,14 @@ Here are some ideas to get you started:
 [![Instagran](https://img.shields.io/badge/instagram-purple?logo=instagram&style=for-the-badge&link=https://www.instagram.com/leo_dejankovty/)](https://www.instagram.com/leo_dejankovty)
 [![Whatsapp](https://img.shields.io/badge/whatsapp-darkgreen?logo=whatsapp&logoColor=white&style=for-the-badge&link=https://api.whatsapp.com/send?phone=5511939275748/)](https://api.whatsapp.com/send?phone=5511939275748)
 
-[![Gmail](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&link=https://mailto:leodkvt@gmail.com)](https://mailto:leodkvt@gmail.com)
+
+
+
+
+
+
+
+
+
+
 
