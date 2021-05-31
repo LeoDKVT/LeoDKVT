@@ -7,6 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -23,6 +24,11 @@ Here are some ideas to get you started:
 
 
 
+Sobre mim:
+
+software
+🌱 Atuamente estou estudando Amalise em desenvolvimento de Sistema
+
 
 
 
@@ -35,7 +41,7 @@ Here are some ideas to get you started:
 [![Whatsapp](https://img.shields.io/badge/whatsapp-darkgreen?logo=whatsapp&logoColor=white&style=for-the-badge&link=https://api.whatsapp.com/send?phone=5511939275748/)](https://api.whatsapp.com/send?phone=5511939275748)
 
 
-
+[![Instagran](https://img.shields.io/badge/instagram-purple?logo=instagram&logoColor=white&style=for-the-badge&link=https://www.instagram.com/leo_dejankovty/)](https://www.instagram.com/leo_dejankovty)
 
 
 
