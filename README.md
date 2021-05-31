@@ -23,11 +23,14 @@ Here are some ideas to get you started:
 
 Sobre mim:
 
-🛠 Estou interessado em começar a carreira como Desenvolvedor Front-End
+🛠 Estou interessado em ingressar na carreira de Desenvolvimento front-End
 
-🌱 Atualmente estudo Análise e Desenvolvimento de Sistema pela (Uninove). Estou fazendo cursos de Web Design, UX/UI Design, HTML, CSS, JavaScript e React pela (Origamid)
+‍👨‍🎓 Atualmente estudo Análise e Desenvolvimento de Sistema pela [Uninove](https://www.uninove.br/cursos/ead/ead/tecnologia-analise-desenvolvimento-de-sistemas-ead/). Estou fazendo cursos de Web Design, UX/UI Design, HTML, CSS, JavaScript e React pela [Origamid](https://www.origamid.com/)
 
 💬Pergunte-me sobre: Qualquer coisa :)
+
+
+
 
 
 
@@ -36,4 +39,3 @@ Sobre mim:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:///www.linkedin.com/in/josé-leonardo-172828192/)](https:///www.linkedin.com/in/josé-leonardo-172828192/)
 [![Instagran](https://img.shields.io/badge/instagram-%23E44057?logo=instagram&logoColor=white&style=for-the-badge&link=https://www.instagram.com/leo_dejankovty/)](https://www.instagram.com/leo_dejankovty)
 [![Whatsapp](https://img.shields.io/badge/whatsapp-darkgreen?logo=whatsapp&logoColor=white&style=for-the-badge&link=https://api.whatsapp.com/send?phone=5511939275748/)](https://api.whatsapp.com/send?phone=5511939275748)
-
