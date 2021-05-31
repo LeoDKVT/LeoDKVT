@@ -21,18 +21,17 @@ Here are some ideas to get you started:
 # Olá 😄, Prazer em conhecê-lo.
 
 
-
-
-
 Sobre mim:
 
-software
-🌱 Atuamente estou estudando Amalise em desenvolvimento de Sistema
+🛠 Estou interessado em começar a carreira como Desenvolvedor Front-End
+
+🌱 Atualmente estudo Análise e Desenvolvimento de Sistema pela (Uninove). Estou fazendo cursos de Web Design, UX/UI Design, HTML, CSS, JavaScript e React pela (Origamid)
+
+💬Pergunte-me sobre: Qualquer coisa :)
 
 
 
-
-## Segue contato :iphone:
+## Contato :iphone:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:///www.linkedin.com/in/josé-leonardo-172828192/)](https:///www.linkedin.com/in/josé-leonardo-172828192/)
@@ -42,12 +41,4 @@ software
 
 
 [![Instagran](https://img.shields.io/badge/instagram-purple?logo=instagram&logoColor=white&style=for-the-badge&link=https://www.instagram.com/leo_dejankovty/)](https://www.instagram.com/leo_dejankovty)
-
-
-
-
-
-
-
-
 
