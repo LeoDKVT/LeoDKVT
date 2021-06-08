@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Olá 😄, Prazer em conhecê-lo.
-
+#  Olá, Prazer em conhecê-lo:slightly_smiling_face:
 
 Sobre mim:
 
