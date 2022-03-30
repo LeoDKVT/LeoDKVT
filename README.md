@@ -30,8 +30,17 @@ Sobre mim:
 
 
 ## Contato :iphone:
-
+  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:///www.linkedin.com/in/jos%C3%A9-leonardo-da-silva-rolim-172828192/)](https:///www.linkedin.com/in/jos%C3%A9-leonardo-da-silva-rolim-172828192/)
 [![Instagran](https://img.shields.io/badge/instagram-%23E44057?logo=instagram&logoColor=white&style=for-the-badge&link=https://www.instagram.com/leodkvt/)](https://www.instagram.com/leodkvt)
 [![Whatsapp](https://img.shields.io/badge/whatsapp-darkgreen?logo=whatsapp&logoColor=white&style=for-the-badge&link=https://api.whatsapp.com/send?phone=5511939275748/)](https://api.whatsapp.com/send?phone=5511939275748)
+
+<p align="center"> 
+
+ ## Total de visitas no meu perfil :detective: <br>
+
+   <img alingn="center" src="https://profile-counter.glitch.me/leoDKVT/count.svg" />
+ </p>
+
+</p>
 
