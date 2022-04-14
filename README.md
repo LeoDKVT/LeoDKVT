@@ -22,12 +22,15 @@ Here are some ideas to get you started:
 
 Sobre mim:
 
-🛠 Estou interessado em ingressar na carreira de Desenvolvimento front-End
+🛠 Estou interessado em ingressar na carreira front-End Developer.
 
-‍👨‍🎓 Atualmente estudo Análise e Desenvolvimento de Sistema pela [Uninove](https://www.uninove.br/cursos/ead/ead/tecnologia-analise-desenvolvimento-de-sistemas-ead/). Estou fazendo cursos de Web Design, UX/UI Design, HTML, CSS, JavaScript e React pela [Origamid](https://www.origamid.com/)
+ Tenho me dedicado muito! Gostaria muito de uma oportunidade, mesmo que seja um estágio.
 
-💬Pergunte-me sobre: Qualquer coisa :)
+‍👨‍🎓 Atualmente estudo Análise e Desenvolvimento de Sistema pela [Uninove](https://www.uninove.br/cursos/ead/ead/tecnologia-analise-desenvolvimento-de-sistemas-ead/). Estou fazendo curso de Web Design, UX/UI Design, HTML, CSS, JavaScript e React pela [Origamid](https://www.origamid.com/). Também realizo curso pelo [Curso em vídeo](https://www.cursoemvideo.com/) com o professor Gustavo Guanabará.
 
+Caso queira visualizar meu [Portfólio](https://leodkvt.github.io/Site-Portfolio/), fique a vontade! Só lembrando que está em desenvolvimento :)
+
+💬 Duvidas? Pergunte-me qualquer coisa!
 
 ## Contato :iphone:
   
