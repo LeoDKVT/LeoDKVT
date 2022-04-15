@@ -24,13 +24,13 @@ Sobre mim:
 
 :rocket:	 Estou interessado em ingressar na carreira front-End Developer.
 
-:man_technologist:  Tenho como ojetivo em conseguir uma oportunidade de estágio.
+:dart:   Tenho como ojetivo em conseguir uma oportunidade de estágio.
 
-‍👨‍🎓 Atualmente estudo Análise e Desenvolvimento de Sistema pela [_Uninove_](https://www.uninove.br/cursos/ead/ead/tecnologia-analise-desenvolvimento-de-sistemas-ead/). Estou fazendo curso de Web Design, UX/UI Design, HTML, CSS, JavaScript e React pela [_Origamid_](https://www.origamid.com/). Também realizo curso pelo [_Curso em vídeo_](https://www.cursoemvideo.com/) com o professor Gustavo Guanabará.
+‍👨‍🎓  Atualmente estudo Análise e Desenvolvimento de Sistema pela [_Uninove_](https://www.uninove.br/cursos/ead/ead/tecnologia-analise-desenvolvimento-de-sistemas-ead/). Estou fazendo curso de Web Design, UX/UI Design, HTML, CSS, JavaScript e React pela [_Origamid_](https://www.origamid.com/). Também realizo curso pelo [_Curso em vídeo_](https://www.cursoemvideo.com/) com o professor Gustavo Guanabará.
 
-Caso queira visualizar meu [_Portfólio_](https://leodkvt.github.io/Site-Portfolio/), fique a vontade! Só lembrando que está em desenvolvimento  :fire:	:fire:	:fire:	
+:man_technologist:   Caso queira visualizar meu [_Portfólio_](https://leodkvt.github.io/Site-Portfolio/), fique a vontade! Só lembrando que está em desenvolvimento  :fire:	:fire:	:fire:	
 
-💬 Duvidas? Pergunte-me qualquer coisa!
+💬 Dúvidas? Pergunte-me qualquer coisa!
 
 ## Contato :iphone:
   
