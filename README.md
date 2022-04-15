@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #  Olá  :slightly_smiling_face:
 
-Sobre mim:
+### Sobre mim:
 
 :rocket:	 Estou interessado em ingressar na carreira front-End Developer.
 
