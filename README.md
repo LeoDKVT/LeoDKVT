@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## Contato :iphone:
   
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:///www.linkedin.com/in/josé-leonardo-da-silva-rolim/)](https:///www.linkedin.com/in/josé-leonardo-da-silva-rolim/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:///https://www.linkedin.com/in/jos%C3%A9-leonardo-dev-front-end/)](https:///https://www.linkedin.com/in/jos%C3%A9-leonardo-dev-front-end/)
 [![Instagran](https://img.shields.io/badge/instagram-%23E44057?logo=instagram&logoColor=white&style=for-the-badge&link=https://www.instagram.com/leodkvt/)](https://www.instagram.com/leodkvt)
 [![Whatsapp](https://img.shields.io/badge/whatsapp-darkgreen?logo=whatsapp&logoColor=white&style=for-the-badge&link=https://api.whatsapp.com/send?phone=5511939275748/)](https://api.whatsapp.com/send?phone=5511939275748)
 ![Snake animation](https://github.com/betopinheiro1005/betopinheiro1005/blob/output/github-contribution-grid-snake.svg)
