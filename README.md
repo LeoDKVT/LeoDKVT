@@ -8,52 +8,53 @@
 
 ‍👨‍🎓  Atualmente estudo Análise e Desenvolvimento de Sistema pela [_Uninove_](https://www.uninove.br/cursos/ead/ead/tecnologia-analise-desenvolvimento-de-sistemas-ead/). Estou fazendo cursos voltado para a carreira Front-end pela plataforma da [_Origamid_](https://www.origamid.com/). Também realizo cursos pelo [_Curso em vídeo_](https://www.cursoemvideo.com/) com o professor Gustavo Guanabará.
 
-:man_technologist:   Caso queira visualizar meu [_Portfólio_](https://leodkvt.github.io/Portfolio/), fique a vontade! Só lembrando que está em desenvolvimento  :fire:	:fire:	:fire:	
-
+:man_technologist: Caso queira visualizar meu [_Portfólio_](https://leodkvt.github.io/Portfolio/), fique a vontade! Só lembrando que está em desenvolvimento  :fire:	:fire:	:fire:	
 
 ### Principais habilidades:
 <!--html-->
-[ <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style=" padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
+[ <img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style=" padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
 
 <!--css-->
-[ <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style=" padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
+[ <img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style=" padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
 
 <!--sass-->
-[ <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style=" padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
+[ <img align="left" alt="Sass" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style=" padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
 
 <!--javascript-->
-[ <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style=" padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
+[ <img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style=" padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
 
+<br>
 <br>
 
 ### Ferramentas:
 <!--vscode-->
-[ <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" estilo ="padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
+[ <img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" estilo ="padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
 
 <!--nodejs-->
-[ <img align="left" alt="nodejs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" estilo ="padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
+[ <img align="left" alt="nodejs" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" estilo ="padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
 
 <!--git-->
-[ <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" estilo ="padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
+[ <img align="left" alt="git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" estilo ="padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
 
 <!--abobe xd-->
-[ <img align="left" alt="nodejs" width="30px" src="https://img.icons8.com/color/48/000000/adobe-xd.svg" estilo ="padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
+[ <img align="left" alt="nodejs" width="39px" src="https://img.icons8.com/color/48/000000/adobe-xd.svg" estilo ="padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
 
 <!--figma-->
-[ <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" estilo ="padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
+[ <img align="left" alt="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" estilo ="padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
 
 <!--canva-->
-[ <img align="left" alt="canva" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" estilo ="padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
+[ <img align="left" alt="canva" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" estilo ="padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
+
+<!--netlify-->
+[ <img align="left" alt="netlify" width="35px" src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" estilo ="padding-right:10px;" /> ](https://api.whatsapp.com/send?phone=5511939275748) 
+
+<!--vercel-->
+[ <img align="left" alt="vercel" width="35px" src="https://www.svgrepo.com/show/327408/logo-vercel.svg" estilo ="padding-right:10px;" /> ](https://api.whatsapp.com/send?phone=5511939275748) 
 
 <br>
-
 
 <!--pac-man-do-github-->
 ![Snake animation](https://github.com/betopinheiro1005/betopinheiro1005/blob/output/github-contribution-grid-snake.svg)
-
-
-<br>
-<br>
 
 ### Contato :iphone:
 
@@ -68,8 +69,6 @@
 
 <!--whatsapp-->
 [ <img align="left" alt="whatsapp" width="35px" src="https://i.imgur.com/P35jRVg.png" estilo ="padding-right:10px;" /> ](https://api.whatsapp.com/send?phone=5511939275748) 
-
-
 
 <br>
 
