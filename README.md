@@ -5,23 +5,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 :rocket:	 Estou interessado em ingressar na carreira front-End Developer.
 
 :dart:   Tenho como ojetivo em conseguir uma oportunidade de estágio.
@@ -83,15 +66,21 @@
 
 ### Contato :iphone:
 
-[ <img align="left" alt="instagram" width="26px" src="https://imgur.com/vTLXp4I.png" estilo ="padding-right:10px;" /> ](https://www.instagram.com/_dpedr0/) 
+<!--linkedin-->
+[ <img align="left" alt="linkedin" width="26px" src="https://i.imgur.com/rgMtwhO.png" estilo ="padding-right:10px;" /> ](https://www.linkedin.com/in/jos%C3%A9-leonardo-dev-front-end/) 
 
-[![ Gmail ](https://imgur.com/RpheCdT.png)](davypedro@mat.ci.ufpb.br)  
-[![ LinkedIn ](https://i.imgur.com/rgMtwhO.png)](https://www.linkedin.com/in/dpedromoura/)  
-[![ Instagram ](https://imgur.com/vTLXp4I.png)](https://www.instagram.com/_dpedr0/)  
+<!--gmail-->
+[ <img align="left" alt="gmail" width="26px" src="https://imgur.com/RpheCdT.png" estilo ="padding-right:10px;" /> ](mailto:leodkvt@gmail.com) 
+
+<!--instagram-->
+[ <img align="left" alt="instagram" width="26px" src="https://imgur.com/vTLXp4I.png" estilo ="padding-right:10px;" /> ](https://www.instagram.com/leodkvt/) 
+
+<!--whatsapp-->
+[ <img align="left" alt="instagram" width="26px" src="https://i.imgur.com/P35jRVg.png" estilo ="padding-right:10px;" /> ](https://api.whatsapp.com/send?phone=5511939275748) 
 
 
 
-
+<br>
 
 
 
