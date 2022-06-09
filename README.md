@@ -10,6 +10,22 @@
 
 :man_technologist: Caso queira visualizar meu [_Portfólio_](https://leodkvt.github.io/Portfolio/), fique a vontade! Só lembrando que está em desenvolvimento  :fire:	:fire:	:fire:	
 
+<br>
+
+### Contato :iphone:
+
+<!--linkedin-->
+[ <img align="left" alt="linkedin" width="35px" src="https://i.imgur.com/rgMtwhO.png" estilo ="padding-right:10px;" /> ](https://www.linkedin.com/in/jos%C3%A9-leonardo-dev-front-end/) 
+
+<!--gmail-->
+[ <img align="left" alt="gmail" width="35px" src="https://imgur.com/RpheCdT.png" estilo ="padding-right:10px;" /> ](mailto:leodkvt@gmail.com) 
+
+<!--whatsapp-->
+[ <img align="left" alt="whatsapp" width="35px" src="https://i.imgur.com/P35jRVg.png" estilo ="padding-right:10px;" /> ](https://api.whatsapp.com/send?phone=5511939275748) 
+
+<br>
+<br>
+
 ### Principais habilidades
 <!--html-->
 [ <img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style=" padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
@@ -59,19 +75,7 @@
 <!--pac-man-do-github-->
 ![Snake animation](https://github.com/betopinheiro1005/betopinheiro1005/blob/output/github-contribution-grid-snake.svg)
 
-### Contato :iphone:
 
-<!--linkedin-->
-[ <img align="left" alt="linkedin" width="35px" src="https://i.imgur.com/rgMtwhO.png" estilo ="padding-right:10px;" /> ](https://www.linkedin.com/in/jos%C3%A9-leonardo-dev-front-end/) 
-
-<!--gmail-->
-[ <img align="left" alt="gmail" width="35px" src="https://imgur.com/RpheCdT.png" estilo ="padding-right:10px;" /> ](mailto:leodkvt@gmail.com) 
-
-<!--instagram-->
-[ <img align="left" alt="instagram" width="35px" src="https://imgur.com/vTLXp4I.png" estilo ="padding-right:10px;" /> ](https://www.instagram.com/leodkvt/) 
-
-<!--whatsapp-->
-[ <img align="left" alt="whatsapp" width="35px" src="https://i.imgur.com/P35jRVg.png" estilo ="padding-right:10px;" /> ](https://api.whatsapp.com/send?phone=5511939275748) 
 
 <br>
 <br>
