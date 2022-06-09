@@ -76,29 +76,11 @@
 <br>
 <br>
 
+### Estatísticas do GitHub
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoDKVT&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&line_height=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDKVT&hide_title=false&count_private=true&layout=compact&card_width=290&show_icons=true&&theme=nightowl)
+
 <!--Total de visitas-->
 ### Total de visitas no meu perfil :detective: <br>
-
 <img alingn="center" src="https://profile-counter.glitch.me/leoDKVT/count.svg" />
-
-<br>
-<br>
-
-
-<h3 align="left">GitHub Stats</h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoDKVT&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=30,D5F7E6,FFF&text_color=000&border_radius=3&border_color=FFF&icon_color=1B2E35&theme=swift)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDKVT&hide_title=false&count_private=true&layout=compact&card_width=290&show_icons=true&title_color=000&bg_color=30,FFF,D5F7E6&text_color=000&border_radius=3&border_color=FFF)](https://github.com/elidianaandrade/github-readme-stats)
-
-<br>
-<br>
-
-<div> 
-   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=LeoDKVT&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-   <img height="180em" right="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDKVT&hide=scss&layout=compact&langs+count=16&theme=nightowl"/>
- </div> 
-
-
-
-
