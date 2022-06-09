@@ -2,9 +2,6 @@
 
 ### Sobre mim:
 
-
-
-
 :rocket:	 Estou interessado em ingressar na carreira front-End Developer.
 
 :dart:   Tenho como ojetivo em conseguir uma oportunidade de estágio.
@@ -13,7 +10,6 @@
 
 :man_technologist:   Caso queira visualizar meu [_Portfólio_](https://leodkvt.github.io/Portfolio/), fique a vontade! Só lembrando que está em desenvolvimento  :fire:	:fire:	:fire:	
 
-💬 Dúvidas? Pergunte-me qualquer coisa!
 
 ### Principais habilidades:
 <!--html-->
@@ -50,14 +46,9 @@
 [ <img align="left" alt="canva" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" estilo ="padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
 
 <br>
-<br>
-<br>
 
-### Contato :iphone:
-  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-leonardo-dev-front-end/)](https://www.linkedin.com/in/jos%C3%A9-leonardo-dev-front-end/)
-[![Instagran](https://img.shields.io/badge/instagram-%23E44057?logo=instagram&logoColor=white&style=for-the-badge&link=https://www.instagram.com/leodkvt/)](https://www.instagram.com/leodkvt)
-[![Whatsapp](https://img.shields.io/badge/whatsapp-darkgreen?logo=whatsapp&logoColor=white&style=for-the-badge&link=https://api.whatsapp.com/send?phone=5511939275748/)](https://api.whatsapp.com/send?phone=5511939275748)
+
+<!--pac-man-do-github-->
 ![Snake animation](https://github.com/betopinheiro1005/betopinheiro1005/blob/output/github-contribution-grid-snake.svg)
 
 
@@ -67,16 +58,16 @@
 ### Contato :iphone:
 
 <!--linkedin-->
-[ <img align="left" alt="linkedin" width="26px" src="https://i.imgur.com/rgMtwhO.png" estilo ="padding-right:10px;" /> ](https://www.linkedin.com/in/jos%C3%A9-leonardo-dev-front-end/) 
+[ <img align="left" alt="linkedin" width="35px" src="https://i.imgur.com/rgMtwhO.png" estilo ="padding-right:10px;" /> ](https://www.linkedin.com/in/jos%C3%A9-leonardo-dev-front-end/) 
 
 <!--gmail-->
-[ <img align="left" alt="gmail" width="26px" src="https://imgur.com/RpheCdT.png" estilo ="padding-right:10px;" /> ](mailto:leodkvt@gmail.com) 
+[ <img align="left" alt="gmail" width="35px" src="https://imgur.com/RpheCdT.png" estilo ="padding-right:10px;" /> ](mailto:leodkvt@gmail.com) 
 
 <!--instagram-->
-[ <img align="left" alt="instagram" width="26px" src="https://imgur.com/vTLXp4I.png" estilo ="padding-right:10px;" /> ](https://www.instagram.com/leodkvt/) 
+[ <img align="left" alt="instagram" width="35px" src="https://imgur.com/vTLXp4I.png" estilo ="padding-right:10px;" /> ](https://www.instagram.com/leodkvt/) 
 
 <!--whatsapp-->
-[ <img align="left" alt="instagram" width="26px" src="https://i.imgur.com/P35jRVg.png" estilo ="padding-right:10px;" /> ](https://api.whatsapp.com/send?phone=5511939275748) 
+[ <img align="left" alt="whatsapp" width="35px" src="https://i.imgur.com/P35jRVg.png" estilo ="padding-right:10px;" /> ](https://api.whatsapp.com/send?phone=5511939275748) 
 
 
 
