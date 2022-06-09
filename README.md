@@ -10,10 +10,7 @@
 
 :man_technologist: Caso queira visualizar meu [_Portfólio_](https://leodkvt.github.io/Portfolio/), fique a vontade! Só lembrando que está em desenvolvimento  :fire:	:fire:	:fire:	
 
-<br>
-
 ### Contato :iphone:
-
 <!--linkedin-->
 [ <img align="left" alt="linkedin" width="35px" src="https://i.imgur.com/rgMtwhO.png" estilo ="padding-right:10px;" /> ](https://www.linkedin.com/in/jos%C3%A9-leonardo-dev-front-end/) 
 
@@ -75,13 +72,7 @@
 <!--pac-man-do-github-->
 ![Snake animation](https://github.com/betopinheiro1005/betopinheiro1005/blob/output/github-contribution-grid-snake.svg)
 
-
-
-<br>
-<br>
-
 ### Estatísticas do GitHub
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoDKVT&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&line_height=20)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDKVT&hide_title=false&count_private=true&layout=compact&card_width=290&show_icons=true&&theme=nightowl)
 
