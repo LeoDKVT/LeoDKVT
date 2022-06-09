@@ -10,7 +10,7 @@
 
 :man_technologist: Caso queira visualizar meu [_Portfólio_](https://leodkvt.github.io/Portfolio/), fique a vontade! Só lembrando que está em desenvolvimento  :fire:	:fire:	:fire:	
 
-### Principais habilidades:
+### Principais habilidades
 <!--html-->
 [ <img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style=" padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
 
@@ -26,7 +26,7 @@
 <br>
 <br>
 
-### Ferramentas:
+### Ferramentas
 <!--vscode-->
 [ <img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" estilo ="padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
 
@@ -35,6 +35,9 @@
 
 <!--git-->
 [ <img align="left" alt="git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" estilo ="padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
+
+<!--github-->
+[ <img align="left" alt="whatsapp" width="39px" src="https://pngimg.com/uploads/github/small/github_PNG88.png" estilo ="padding-right:10px;" /> ](https://api.whatsapp.com/send?phone=5511939275748) 
 
 <!--abobe xd-->
 [ <img align="left" alt="nodejs" width="39px" src="https://img.icons8.com/color/48/000000/adobe-xd.svg" estilo ="padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
@@ -71,18 +74,30 @@
 [ <img align="left" alt="whatsapp" width="35px" src="https://i.imgur.com/P35jRVg.png" estilo ="padding-right:10px;" /> ](https://api.whatsapp.com/send?phone=5511939275748) 
 
 <br>
+<br>
+
+<!--Total de visitas-->
+### Total de visitas no meu perfil :detective: <br>
+
+<img alingn="center" src="https://profile-counter.glitch.me/leoDKVT/count.svg" />
+
+<br>
+<br>
 
 
+<h3 align="left">GitHub Stats</h3>
 
-<p align="center"> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoDKVT&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=30,D5F7E6,FFF&text_color=000&border_radius=3&border_color=FFF&icon_color=1B2E35&theme=swift)
 
- ## Total de visitas no meu perfil :detective: <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDKVT&hide_title=false&count_private=true&layout=compact&card_width=290&show_icons=true&title_color=000&bg_color=30,FFF,D5F7E6&text_color=000&border_radius=3&border_color=FFF)](https://github.com/elidianaandrade/github-readme-stats)
 
-   <img alingn="center" src="https://profile-counter.glitch.me/leoDKVT/count.svg" />
- </p>
+<br>
+<br>
 
-</p>
-
+<div> 
+   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=LeoDKVT&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+   <img height="180em" right="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDKVT&hide=scss&layout=compact&langs+count=16&theme=nightowl"/>
+ </div> 
 
 
 
