@@ -71,7 +71,3 @@
 ### Estatísticas do GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoDKVT&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&line_height=20)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDKVT&hide_title=false&count_private=true&layout=compact&card_width=290&show_icons=true&&theme=nightowl)
-
-<!--Total de visitas-->
-### Total de visitas no meu perfil :detective: <br>
-<img alingn="center" src="https://profile-counter.glitch.me/leoDKVT/count.svg" />
