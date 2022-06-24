@@ -1,5 +1,6 @@
 #  Olá  :slightly_smiling_face:
 
+
 ### Sobre mim:
 
 :rocket: Estou interessado em ingressar na carreira front-End Developer. Tenho como objetivo em conseguir uma oportunidade de estágio. Atualmente estou no terceiro semestre do curso tecnólogo Análise e Desenvolvimento de Sistema pela [_Uninove_](https://www.uninove.br/cursos/ead/ead/tecnologia-analise-desenvolvimento-de-sistemas-ead/). Estou fazendo cursos voltado para a carreira Front-end pela plataforma da [_Origamid_](https://www.origamid.com/). Também realizo cursos pelo [_Curso em vídeo_](https://www.cursoemvideo.com/) com o professor Gustavo Guanabará.
@@ -71,5 +72,4 @@
 ### Estatísticas do GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoDKVT&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&line_height=20)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDKVT&hide_title=false&count_private=true&layout=compact&card_width=290&show_icons=true&&theme=nightowl)
-
 
