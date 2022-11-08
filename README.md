@@ -1,3 +1,5 @@
+<!--Visualização de perfil-->
+
 [![](https://visitcount.itsvg.in/api?id=LeoDKVT&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <h1 align="center"> Olá :slightly_smiling_face:, Seja bem vindo!  </br> 
 </h1>
@@ -12,10 +14,7 @@
 
 :rocket: Tenho como objetivo de carreira, ser um desenvolvedor Front-End.  <br><br>
 :man_technologist: Atualmente estou no terceiro semestre do curso tecnólogo Análise e Desenvolvimento de Sistema. <br><br>
-:fire: Caso queira visualizar meu Portfólio, fique a vontade! https://www.leodkvt.com.br
-
-
-
+:fire: Caso queira visualizar meu Portfólio, fique a vontade! https://leodkvt.com.br
 
 <br>
 <br>
@@ -52,4 +51,3 @@
 
 <!--pac-man-do-github-->
 ![Snake animation](https://github.com/betopinheiro1005/betopinheiro1005/blob/output/github-contribution-grid-snake.svg)
-[![](https://visitcount.itsvg.in/api?id=LeoDKVT&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
