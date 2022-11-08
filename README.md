@@ -1,79 +1,55 @@
-#  Olá  :slightly_smiling_face:
+[![](https://visitcount.itsvg.in/api?id=LeoDKVT&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<h1 align="center"> Olá :slightly_smiling_face:, Seja bem vindo!  </br> 
+</h1>
+<p align="center">
+<a href="https://api.whatsapp.com/send?phone=5511939275748" target="_blank"><img alt="" src="https://img.shields.io/badge/Whatsapp-000?logo=Whatsapp&logoColor=63084D&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.leodkvt.com.br/" target="_blank"><img alt="" src="https://img.shields.io/badge/portfolio-000?logo=portfolio&logoColor=63084D&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/jose-leonardo-dev-front-end/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=63084D&style=for-the-badge" style="vertical-align:center" /></a>
+  
+</p>
+
+## 💫 Sobre mim:
+
+:rocket: Tenho como objetivo de carreira, ser um desenvolvedor Front-End.  <br><br>
+:man_technologist: Atualmente estou no terceiro semestre do curso tecnólogo Análise e Desenvolvimento de Sistema. <br><br>
+:fire: Caso queira visualizar meu Portfólio, fique a vontade! https://www.leodkvt.com.br
 
 
-### Sobre mim:
-
-:rocket: Estou interessado em ingressar na carreira front-End Developer. Tenho como objetivo em conseguir uma oportunidade de estágio. Atualmente estou no terceiro semestre do curso tecnólogo Análise e Desenvolvimento de Sistema pela [_Uninove_](https://www.uninove.br/cursos/ead/ead/tecnologia-analise-desenvolvimento-de-sistemas-ead/). Estou fazendo cursos voltado para a carreira Front-end pela plataforma da [_Origamid_](https://www.origamid.com/). Também realizo cursos pelo [_Curso em vídeo_](https://www.cursoemvideo.com/) com o professor Gustavo Guanabará.
-
-:man_technologist: Caso queira visualizar meu [_Portfólio_](https://leodkvt.vercel.app/), fique a vontade! Só lembrando que está em desenvolvimento  :fire:	:fire:	:fire:	
-
-### Contato :iphone:
-<!--linkedin-->
-[ <img align="left" alt="linkedin" width="35px" src="https://i.imgur.com/rgMtwhO.png" estilo ="padding-right:10px;" /> ](https://www.linkedin.com/in/jos%C3%A9-leonardo-dev-front-end/) 
-
-<!--gmail-->
-[ <img align="left" alt="gmail" width="35px" src="https://imgur.com/RpheCdT.png" estilo ="padding-right:10px;" /> ](mailto:leodkvt@gmail.com) 
-
-<!--whatsapp-->
-[ <img align="left" alt="whatsapp" width="35px" src="https://i.imgur.com/P35jRVg.png" estilo ="padding-right:10px;" /> ](https://api.whatsapp.com/send?phone=5511939275748) 
-
-<br>
-<br>
-
-### Principais habilidades
-<!--html-->
-[ <img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style=" padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
-
-<!--css-->
-[ <img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style=" padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
-
-<!--sass-->
-[ <img align="left" alt="Sass" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style=" padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
-
-<!--javascript-->
-[ <img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style=" padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
-
-<!--javascript-->
-[ <img align="left" alt="Bootstrap" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" style=" padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
 
 
 <br>
 <br>
 
-### Ferramentas
-<!--vscode-->
-[ <img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" estilo ="padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
+## 💻 My Skills:
 
-<!--nodejs-->
-[ <img align="left" alt="nodejs" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" estilo ="padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
+#### Languages
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 
-<!--git-->
-[ <img align="left" alt="git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" estilo ="padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
+#### Framework
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
-<!--github-->
-[ <img align="left" alt="whatsapp" width="39px" src="https://pngimg.com/uploads/github/small/github_PNG88.png" estilo ="padding-right:10px;" /> ](https://api.whatsapp.com/send?phone=5511939275748) 
+#### CSS Framework/Pre-processors
+![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
 
-<!--abobe xd-->
-[ <img align="left" alt="nodejs" width="39px" src="https://img.icons8.com/color/48/000000/adobe-xd.svg" estilo ="padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
+#### Design/Visual Tools
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
+![AdobeXD](https://img.shields.io/badge/-Adobe-000?style=for-the-badge&logo=adobexd)
 
-<!--figma-->
-[ <img align="left" alt="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" estilo ="padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
+#### Web Hosting
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 
-<!--canva-->
-[ <img align="left" alt="canva" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" estilo ="padding-right:10px;" /> ](https://ohmycodechallenge.blogspot.com/)
+#### Code Editor
+![Visual Studio Code](https://img.shields.io/badge/-Vscode-000?style=for-the-badge&logo=visual-studio-code)
 
-<!--netlify-->
-[ <img align="left" alt="netlify" width="35px" src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" estilo ="padding-right:10px;" /> ](https://api.whatsapp.com/send?phone=5511939275748) 
-
-<!--vercel-->
-[ <img align="left" alt="vercel" width="35px" src="https://www.svgrepo.com/show/327408/logo-vercel.svg" estilo ="padding-right:10px;" /> ](https://api.whatsapp.com/send?phone=5511939275748) 
-
-<br>
+#### Version Control
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 <!--pac-man-do-github-->
 ![Snake animation](https://github.com/betopinheiro1005/betopinheiro1005/blob/output/github-contribution-grid-snake.svg)
-
-### Estatísticas do GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoDKVT&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&line_height=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDKVT&hide_title=false&count_private=true&layout=compact&card_width=290&show_icons=true&&theme=nightowl)
-
+[![](https://visitcount.itsvg.in/api?id=LeoDKVT&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
