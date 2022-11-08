@@ -1,11 +1,10 @@
 <!--Visualização de perfil-->
-
 [![](https://visitcount.itsvg.in/api?id=LeoDKVT&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-<h1 align="center"> Olá :slightly_smiling_face:, Seja bem vindo!  </br> 
-</h1>
+
+<h1 align="center"> Olá :slightly_smiling_face:, Seja bem vindo! </h1>
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=5511939275748" target="_blank"><img alt="" src="https://img.shields.io/badge/Whatsapp-000?logo=Whatsapp&logoColor=63084D&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://www.leodkvt.com.br/" target="_blank"><img alt="" src="https://img.shields.io/badge/portfolio-000?logo=portfolio&logoColor=63084D&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://leodkvt.com.br" target="_blank"><img alt="" src="https://img.shields.io/badge/portfolio-000?logo=portfolio&logoColor=63084D&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/jose-leonardo-dev-front-end/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=63084D&style=for-the-badge" style="vertical-align:center" /></a>
   
 </p>
@@ -14,10 +13,7 @@
 
 :rocket: Tenho como objetivo de carreira, ser um desenvolvedor Front-End.  <br><br>
 :man_technologist: Atualmente estou no terceiro semestre do curso tecnólogo Análise e Desenvolvimento de Sistema. <br><br>
-:fire: Caso queira visualizar meu Portfólio, fique a vontade! leodkvt.com.br
-
-<br>
-<br>
+:fire: Caso queira visualizar meu Portfólio, fique a vontade! https://leodkvt.com.br
 
 ## 💻 My Skills:
 
