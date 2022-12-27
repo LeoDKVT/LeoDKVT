@@ -12,7 +12,7 @@
 ## 💫 Sobre mim:
 
 :rocket: Tenho como objetivo de carreira, ser um desenvolvedor Front-End.  <br><br>
-:man_technologist: Atualmente estou no terceiro semestre do curso tecnólogo Análise e Desenvolvimento de Sistema. <br><br>
+:man_technologist: Atualmente estou no quarto semestre do curso tecnólogo Análise e Desenvolvimento de Sistema. <br><br>
 :fire: Caso queira visualizar meu Portfólio, fique a vontade! https://leodkvt.com.br
 
 ## 💻 My Skills:
