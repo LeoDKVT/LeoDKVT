@@ -11,7 +11,7 @@
 
 ## 💫 Sobre mim:
 
-:rocket: Tenho como objetivo de carreira, ser um desenvolvedor Front-End.  <br><br>
+:rocket: Meu objetivo de carreira é trabalhar com desenvolvimento web, e estou focado na parte do Front-end. Pretendo aprender novas coisas.<br><br>
 :man_technologist: Atualmente estou no quarto semestre do curso tecnólogo Análise e Desenvolvimento de Sistema. <br><br>
 :fire: Caso queira visualizar meu Portfólio, fique a vontade! https://leodkvt.com.br
 
