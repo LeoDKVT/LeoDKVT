@@ -47,6 +47,3 @@
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-
-<!--pac-man-do-github-->
-![Snake animation](https://github.com/betopinheiro1005/betopinheiro1005/blob/output/github-contribution-grid-snake.svg)
