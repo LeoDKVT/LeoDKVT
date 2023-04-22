@@ -27,9 +27,13 @@
 
 #### Framework
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 
 #### CSS Framework/Pre-processors
 ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
+
+#### Database
+![Mysql](https://img.shields.io/badge/-Mysql-000?style=for-the-badge&logo=mysql)
 
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
