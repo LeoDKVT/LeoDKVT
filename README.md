@@ -11,9 +11,8 @@
 
 ## 💫 Sobre mim:
 
-:rocket: Meu objetivo de carreira é trabalhar com desenvolvimento web, e estou focado na parte do Front-end. Pretendo aprender novas coisas.<br><br>
-:man_technologist: Atualmente estou no quinto semestre do curso tecnólogo Análise e Desenvolvimento de Sistema. <br><br>
-:fire: Caso queira visualizar meu Portfólio, fique a vontade! https://leodkvt.com.br
+:rocket: Quero construir minha carreira como desenvolvedor web, e minha dedicação está voltada para o Front-end. Estou em busca constante de aprendizado e aprimoramento.<br><br>
+:man_technologist: Neste momento, estou frequentando o quinto semestre da minha graduação em Análise e Desenvolvimento de Sistemas. <br><br>
 
 ## 💻 My Skills:
 
@@ -21,6 +20,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
 
 #### Cms
 ![HTML5](https://img.shields.io/badge/-WORDPRESS-000?style=for-the-badge&logo=wordpress)
